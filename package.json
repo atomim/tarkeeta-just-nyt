@@ -1,7 +1,12 @@
 {
-  "name": "Tärkeetä just nyt",
+  "name": "tarkeeta-just-nyt",
   "version": "0.0.0",
   "dependencies": {
+    "redis": "^0.10.1",
+    "sse": "0.0.5",
+    "irc": "^0.3.6",
+    "install": "^0.1.7",
+    "npm": "^1.4.4"
   },
   "devDependencies": {
     "grunt": "~0.4.2",
